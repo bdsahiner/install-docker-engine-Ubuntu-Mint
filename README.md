@@ -13,11 +13,11 @@ Once the installation is complete, you can delete the script if you no longer ne
 
 ### For **MINT**
 
-  `wget https://raw.githubusercontent.com/bdsahiner/install-docker-engine-on-Mint-22/main/docker-engine-mint22.sh`
+  `wget https://raw.githubusercontent.com/bdsahiner/install-docker-engine-Ubuntu-Mint/main/docker-engine-mint22.sh`
   
 ### For **UBUNTU**
 
-  `wget https://raw.githubusercontent.com/bdsahiner/install-docker-engine-on-Mint-22/main/docker-engine-ubuntu.sh`
+  `wget https://raw.githubusercontent.com/bdsahiner/install-docker-engine-Ubuntu-Mint/main/docker-engine-ubuntu.sh`
 
 ## Make the Script Executable
 
