@@ -1,7 +1,7 @@
 A shell script that allows to download and install Docker Engine with a single command specifically for Linux Mint.
 
 ## Prerequisites
-- This script is designed to work **only** on Linux Mint.
+- Ensure you have a compatible Linux distribution.
 - You may need `sudo` privileges to install Docker.
 
 ## Pre-Installation
@@ -11,11 +11,11 @@ Once the installation is complete, you can delete the script if you no longer ne
 
 ## Download the Script
 
-# For **MINT**
+### For **MINT**
 
   `wget https://raw.githubusercontent.com/bdsahiner/install-docker-engine-on-Mint-22/main/docker-engine-mint22.sh`
   
-# For **UBUNTU**
+### For **UBUNTU**
 
   `wget https://raw.githubusercontent.com/bdsahiner/install-docker-engine-on-Mint-22/main/docker-engine-ubuntu.sh`
 
