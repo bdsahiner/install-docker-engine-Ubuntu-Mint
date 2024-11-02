@@ -11,8 +11,6 @@ Once the installation is complete, you can delete the script if you no longer ne
 
 ## Download the Script
 
-### For **MINT**
-
   `wget https://raw.githubusercontent.com/bdsahiner/install-docker-engine-Ubuntu-Mint/main/docker-engine-ubuntu_based.sh`
   
 ## Make the Script Executable
