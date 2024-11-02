@@ -39,9 +39,7 @@ Warning: The docker group grants root-level privileges to the user.
 
   `sudo groupadd docker`
   
-  `sudo usermod -aG docker $USER` 
-
-You can use the `whoami` command to find your username($USER)
+  `sudo usermod -aG docker $(whoami)`
   
   `newgrp docker`
 
